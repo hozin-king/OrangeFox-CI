@@ -18,3 +18,5 @@ A Free CI to Build OrangeFox Recovery
 
 ## Credits
 - [Sushrut1101](https://github.com/Sushrut1101) - For Making this CI
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/xc6m.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
